@@ -15,6 +15,12 @@ cat - concatenate
 pwd - print working directory
 find - find files based on set parameters
 grep - search for specific text patterns within files or command output
+touch - create a file
+mkdir - create a folder
+cp - copy
+mv - move
+rm - remove or delete
+file - determine the type of a file
 ```
 
 As there are many commands we use, there are also many **shell operators**:
@@ -34,7 +40,7 @@ Syntax for using this protocol is **`ssh user@user-ip`**. After executing that c
 
 All Linux commands accept additional insturction sets which are called flags or switches. Some of them are used all the time while others have a special usecase. Best way to learn about them is through the _manual_ page of the given command.
 
-Example
+Example:
 ```linux
 man ls - opens a manual page for the ls command
 ```
