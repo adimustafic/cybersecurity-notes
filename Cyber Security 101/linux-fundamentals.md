@@ -29,3 +29,12 @@ As there are many commands we use, there are also many **shell operators**:
 
 For the first time in my life, after hearing about it countless times, I used SSH protocol. It's purpose is to remotely "connect" and execute commands on another device.
 Syntax for using this protocol is **`ssh user@user-ip`**. After executing that command we are asked to trust the host and provide the account password. After all that, we are _connected_.
+
+## Flags and Switches
+
+All Linux commands accept additional insturction sets which are called flags or switches. Some of them are used all the time while others have a special usecase. Best way to learn about them is through the _manual_ page of the given command.
+
+Example
+```linux
+man ls - opens a manual page for the ls command
+```
