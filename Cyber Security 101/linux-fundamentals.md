@@ -21,6 +21,7 @@ cp - copy
 mv - move
 rm - remove or delete
 file - determine the type of a file
+su - switch user
 ```
 
 As there are many commands we use, there are also many **shell operators**:
