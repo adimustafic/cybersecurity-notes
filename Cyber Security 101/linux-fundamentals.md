@@ -24,3 +24,8 @@ As there are many commands we use, there are also many **shell operators**:
 > - redirector - take the output from a command (such as using cat to output a file) and direct it elsewhere
 >> - appends the output rather than replacing (meaning nothing is overwritten)
 ```
+
+## SSH - Secure Shell 
+
+For the first time in my life, after hearing about it countless times, I used SSH protocol. It's purpose is to remotely "connect" and execute commands on another device.
+Syntax for using this protocol is `ssh user@user-ip`. After executing that command we are asked to trust the host and provide the account password. After all that, we are _connected_.
