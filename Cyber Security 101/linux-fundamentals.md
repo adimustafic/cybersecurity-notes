@@ -7,6 +7,6 @@ It comes equiped with GUI, but it's main usage is in the Terminal, or CLI (comma
 
 Some of the most basic commands are:
 ```linux
-**echo** - 	Output any text that we provide
-**whoami** - Find out what user we're currently logged in as!
+echo - 	Output any text that we provide
+whoami - Find out what user we're currently logged in as!
 ```
