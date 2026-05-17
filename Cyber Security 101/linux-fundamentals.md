@@ -42,7 +42,7 @@ Syntax for using this protocol is **`ssh user@user-ip`**. After executing that c
 ## SCP - Secure Copy
 
 SCP is a method we use to transfer files between remotely connected devices through ***SSH***. It provides both authentication and encryption. 
-Syntax for using this method when sending files is **`scp filename remote-username@remote-user-ip-system-location/new-filename`**
+Syntax for using this method when sending files is **`scp filename remote-username@remote-user-ip-system-location/new-filename`** /n
 Syntax for using this method when receiving files is **`scp remote-username@remote-user-ip-system-location/filename new-filename`**
 
 ## Flags and Switches
