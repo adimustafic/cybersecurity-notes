@@ -22,6 +22,8 @@ mv - move
 rm - remove or delete
 file - determine the type of a file
 su - switch user
+nano - in-terminal text editor
+wget - download files form HTTP using web address
 ```
 
 As there are many commands we use, there are also many **shell operators**:
@@ -36,6 +38,12 @@ As there are many commands we use, there are also many **shell operators**:
 
 For the first time in my life, after hearing about it countless times, I used SSH protocol. It's purpose is to remotely "connect" and execute commands on another device.
 Syntax for using this protocol is **`ssh user@user-ip`**. After executing that command we are asked to trust the host and provide the account password. After all that, we are _connected_.
+
+## SCP - Secure Copy
+
+SCP is a method we use to transfer files between remotely connected devices through ***SSH***. It provides both authentication and encryption. 
+Syntax for using this method when sending files is **`scp filename remote-username@remote-user-ip-system-location/new-filename`**
+Syntax for using this method when receiving files is **`scp remote-username@remote-user-ip-system-location/filename new-filename`**
 
 ## Flags and Switches
 
