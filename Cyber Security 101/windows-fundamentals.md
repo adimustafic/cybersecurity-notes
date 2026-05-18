@@ -1,8 +1,8 @@
 # Windows Fundamentals
 
-Windows is the most-used OS for personal or work computers in the world. It is used on millions on devices daily. It's GUI (Graphical User Interface) is intuitive and easy to understand, so even beginners can quickly adapt to it. It allows customization, so the user can set it to their liking.
+**Windows** is the most-used OS for personal or work computers in the world. It is used on millions on devices daily. It's GUI (Graphical User Interface) is intuitive and easy to understand, so even beginners can quickly adapt to it. It allows customization, so the user can set it to their liking.
 
-The file system Windows uses is called NTFS (New Technology File System). On NTFS volumes, you can set permissions that grant or deny access to files and folders.
+The file system Windows uses is called **NTFS** _(New Technology File System)_. On NTFS volumes, you can set permissions that grant or deny access to files and folders.
 
 The permissions are:
 
